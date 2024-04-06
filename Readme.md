@@ -81,11 +81,11 @@ GitHub库：[戳此链接](https://github.com/WavesMan/Lethal_Company-Integratio
 
 ![001.png](.\Files\Pictures\ScreenShoot\001.png)
 
-第二步![001png](.\Files\Pictures\ScreenShoot\002.png)
+第二步![002png](.\Files\Pictures\ScreenShoot\002.png)
 
-第三步：![001png](.\Files\Pictures\ScreenShoot\003.png)
+第三步：![003png](.\Files\Pictures\ScreenShoot\003.png)
 
-第四步：![001png](.\Files\Pictures\ScreenShoot\004.png)
+第四步：![004png](.\Files\Pictures\ScreenShoot\004.png)
 
 第五步：前往“$下载$”下载整合包，并打开整合包
 
