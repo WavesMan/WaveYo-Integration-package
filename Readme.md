@@ -81,11 +81,17 @@ GitHub库：[戳此链接](https://github.com/WavesMan/Lethal_Company-Integratio
 
 ![001.png](.\Files\Pictures\ScreenShoot\001.png)
 
-第二步![002png](.\Files\Pictures\ScreenShoot\002.png)
+第二步
 
-第三步：![003png](.\Files\Pictures\ScreenShoot\003.png)
+![002.png](.\Files\Pictures\ScreenShoot\002.png)
 
-第四步：![004png](.\Files\Pictures\ScreenShoot\004.png)
+第三步：
+
+![003.png](.\Files\Pictures\ScreenShoot\003.png)
+
+第四步：
+
+![004.png](.\Files\Pictures\ScreenShoot\004.png)
 
 第五步：前往“$下载$”下载整合包，并打开整合包
 
@@ -101,8 +107,6 @@ GitHub库：[戳此链接](https://github.com/WavesMan/Lethal_Company-Integratio
 
 ![007.png](.\Files\Pictures\ScreenShoot\007.png)
 
-
-
 ## BUG兼容性问题
 
 1. 访问  [Waves_Man B站主页](https://space.bilibili.com/478191001)  私信写清楚BUG产生性状，与是否有安装其他MOD
@@ -111,10 +115,10 @@ GitHub库：[戳此链接](https://github.com/WavesMan/Lethal_Company-Integratio
 
 ## 赞助
 
-微信赞赏码
+#### 微信赞赏码
 
-<img title="" src="./Files/Pictures/WeChat/wx.png" alt="mm_reward_qrcode_1712427314053.png" width="328">
+<img title="" src="./Files/Pictures/WeChat/wx.png" alt="mm_reward_qrcode_1712427314053.png" width="328" data-align="center">
 
-支付宝赞助
+#### 支付宝赞助
 
-<img title="" src="./Files/Pictures/Alipay/Alipay.jpg" alt="Alipay.jpg" width="247">
+<img title="" src="./Files/Pictures/Alipay/Alipay.jpg" alt="Alipay.jpg" width="302" data-align="center">
