@@ -45,6 +45,8 @@ GitHub库：https://github.com/WavesMan/Lethal_Company-Integration-package)
 ·随机事件
 ·头盔摄像头
 
+## 卸载安装请看Readme.md或访问：https://github.com/WavesMan/Lethal_Company-Integration-package
+
 ## BUG兼容性问题
 
 1. 访问 [Waves_Man B站主页]：
