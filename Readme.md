@@ -79,7 +79,7 @@ GitHub库：[戳此链接](https://github.com/WavesMan/Lethal_Company-Integratio
 
 第一步：打开Steam按图示操作
 
-![001.png](.\Files\Pictures\ScreenShoot\001.png)
+![001.png](./Files/Pictures/ScreenShoot/001.png)
 
 第二步
 
