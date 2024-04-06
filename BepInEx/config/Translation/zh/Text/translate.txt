@@ -1,0 +1,861 @@
+/* 初次游戏翻译 Start */
+Adjust screen brightness until the symbol on the right is barely visible.=调整屏幕亮度, 直到右侧的符号几乎不可见为止. 
+
+This experience has been designed for in-game voice chat, so I recommend giving it a try.\n\n=推荐使用游戏内置语音系统, 以获得最佳游戏体验. \n\n
+MODE: Voice activation=语音模式: 自由发言
+MODE: Push to talk=语音模式: 按键发言
+> CONFIRM=>确认
+  CONFIRM= 确认
+ENABLED=启用
+DISABLED=禁用
+SET-UP=设置
+MODE: Push to talk=语音模式: 按键发言
+MODE: Voice activation=语音模式: 自由发言
+/* 初次游戏翻译 End */
+
+/* 版本消息翻译 Start */
+Version 45 is out=版本45已上线
+Version 45 is out now=版本45现已发布
+Others must update their game to play with you on this version.=其他玩家必须更新其游戏才能在此版本上与您一起游玩. 
+
+Welcome!\nThis patch includes the replayable challenge moons and new factory hallway types, as well as some tweaks to existing creatures.\n\nOthers must update their game to play with you on this version.\n\n\nGood luck!=欢迎!\n本次更新包含全新的星球挑战模式与工业设施地图内新增的走廊场景, 以及对部分生物的机制改动.\n\n其他人必须更新他们的游戏才能在此版本上与您一起游玩.\n\n\n祝您好运! 
+
+      BG IG, A System-Act Ally\n      Copyright (C) 2084-2108, Halden Electronics Inc.\n\nCPU Type      :     BORSON 300 CPU at 2500 MHz\nMemory test  :      4521586K OK\n\nBoot Distributioner Application v0.04\nCopyright (C) 2107 Distributioner\n    Detecting Sting X ROM\n    Detecting Web LNV Extender\n    Detecting Heartbeats OK\n\n\nUTGF Device Listening...\n\nBody   ID   Neural   Device Class\n________________________________________\n\n2      52   Jo152       H515\n2      52   Sa5155      H515\n2      52   Bo75        H515\n2      52   Eri510      H515\n1      36   Ell567      H515\n1      36   Jos912      H515\n0\n=      BG IG, 行动支援系统\n      版权所有 (C) 2084-2108, 豪登电子股份有限公司\n\nCPU类型     :      BORSON 300 CPU, 2500 MHz\n内存测试   :       4521586K OK\n\n分配器引导应用程序 v0.04\n版权所有 (C) 2107 分配器\n    Sting X ROM 检测中\n    Web LNV Extender检测中\n    心跳检测 OK\n\n\nUTGF设备监听中...\n\n身体   ID   神经     设备类别\n________________________________________\n\n2      52   Jo152       H515\n2      52   Sa5155      H515\n2      52   Bo75        H515\n2      52   Eri510      H515\n1      36   Ell567      H515\n1      36   Jos912      H515\n0\n
+
+/* 版本消息翻译 End */
+
+/* TMP静态文本翻译 Start */
+Right-click to scan objects in the ship for info.=单击鼠标右键扫描飞船中的物体以获取信息. 
+Weather alert!=天气警告! 
+You have landed in an eclipse. Exercise caution!=您所着陆的星球正处于日食天气中. 请谨慎行事! 
+HALT!=请三思! 
+You have 0 days left to meet the quota. Use the terminal to route to the company and sell.=您还剩 0 天来达成利润指标. 请使用终端导航到公司并出售物品. 
+To read the manual:=如需阅读手册: 
+Press Z to inspect closely. Press Q and E to flip the pages.=按 Z 详细阅读, 按 Q 和 E 翻页. 
+Press B to move and place objects in the ship, E to cancel.=按 B 在飞船中移动和放置物体, 按 E 取消. 
+You can see stored items in the terminal by using command 'STORAGE'=您可以使用命令"STORAGE"在终端中查看已存储的项目物件
+
+/* TMP静态文本翻译 End */
+
+/* 飞船内翻译 Start */
+DEADLINE=截止日期
+
+Start game : [E]=开始游戏:[E]
+Grab: [E]=拿取: [E]
+Grab : [E]=拿取:[E]
+Access terminal : [E]=使用终端:[E]
+Flush: [E]=冲水: [E]
+Close door : [E]=关闭舱门:[E]
+Open door : [E]=打开舱门:[E]
+Switch lights : [E]=开关灯:[E]
+Confirm: [B]   |   Rotate: [R]   |   Store: [X]=放置:[B]   |   旋转:[R]   |   存储至控制终端:[X]
+Change suit=更换制服
+DOOR HYDRAULICS:=舱门液压值:
+/* 飞船内翻译 End */
+
+/* Loading类翻译 Start */
+ENTERING THE ATMOSPHERE...=正在进入大气层...
+LOADING WORLD...=世界加载中...
+/* Loading类翻译 End */
+
+/* 挑战翻译 Start */
+Weekly Challenge Results=每周挑战结果
+Your rank: =你的排名: 
+CHALLENGE RESULTS:=挑战结果:
+(See how you compare to friends in the main menu leaderboard!)=(在主菜单排行榜中查看您与好友的表现如何! )
+/* 挑战翻译 End */
+
+/* 游戏基础文本翻译 Start */
+MAIN ENTRANCE=主要入口
+Use key: [ LMB ]=使用钥匙: [ 左键 ]
+Pull switch : [E]=拉动开关 : [E]
+Pull valve : [E]=转动阀门 : [E]
+
+[Pulling valve]=[正在转动阀门]
+VISIBILITY LOW=可见度低
+Steam leak detected in area=区域内检测到蒸汽泄漏
+YOU ARE FIRED.=你被开除了. 
+Unnamed=未命名
+(Some were too far to receive your message.)=(部分玩家与您相距过远, 无法接收讯息. )
+/* 游戏基础文本翻译 End */
+
+/* 错误信息 Start */
+Could not connect to Steam servers! (If you just want to play on your local network, choose LAN on launch.)=无法连接至Steam服务器! (若您想在本地网络游玩, 请在启动时选择局域网选项. )
+Continue=继续
+An error occured!=发生错误! 
+An error occured when syncing the scene! The host might not have loaded in.=同步场景时发生错误! \n主机可能尚未完成加载. 
+An error occured while spawning into the game. Please report the glitch!=加载游戏时发生错误. 请向官方反馈故障! 
+The server is full!=房间已满! 
+You cannot rejoin after being kicked.=您无法在被踢出后重新加入此房间. 
+Error! Could not get the lobby data. Are you offline?=错误! 无法读取房间数据. 您的网络连接是否已断开? 
+/* 错误信息 End */
+
+/* 标题及界面相关翻译 Start */
+The file will NOT save! Your ship must be in orbit.=游戏将不会存档! 您的飞船必须先停靠于轨道上. 
+Loading server list...=正在读取房间列表...
+Enter server tag...=请输入房间标签...
+With challenge moon=包含星球挑战模式
+You did not meet the PROFIT QUOTA before the deadline.=你没有在截止日期前达成利润指标. 
+You did not meet the profit quota before the deadline.=你没有在截止日期前达成利润指标. 
+No available servers to join.=暂无符合搜索条件的房间. 
+/* 标题及界面相关翻译 End */
+
+/* 物品类翻译 Start */
+[Near activity detected!]=[附近检测到活动信号!]
+
+Drop clipboard : [G]=丢下培训手册 : [G]
+Drop Sticky note : [G]=丢下便签 : [G]
+Turn page : [Q/E]=翻页 : [Q/E]
+Inspect: [Z]=检查:[Z]
+
+Drop Pro-flashlight : [G]=丢下高级手电筒 : [G]
+
+Drop Shovel : [G]=丢下铲子 : [G]
+Drop Key : [G]=丢下钥匙 : [G]
+
+Spray : [LMB]=喷涂 : [左键]
+Shake can : [Q]=摇晃 : [Q]
+
+Switch camera : [E]=切换监视目标:[E]
+Turn on/off : [E]=打开/关闭监视器:[E]
+Turn on/off : [LMB]=打开/关闭监视器:[LMB]
+
+Start ship : [E]=启动飞船:[E]
+Store item : [E]=储存物品:[E]
+Swing sign : [LMB]=挥动标志牌:[左键]
+Switch lights : [E]=开关灯 : [E]
+Toggle light : [LMB]=开关手电筒 : [左键]
+Charge item : [E]=充电:[E]
+Flip switch: [E]=拨动开关:[E]
+Send voice : [LMB]=传输声音:[左键]
+Power button : [Q]=电源按钮:[Q]
+Use ladder : [E]=使用梯子:[E]
+Land ship : [E]=着陆:[E]
+Ring bell: [E]=按铃:[E]
+Store item : [E]=存放物品:[E]
+Sell item : [E]=出售物品:[E]
+Exit : [E]=离开:[E]
+Enter: [E]=进入:[E]
+Use door : [E]=使用门:[E]
+HANDS FULL=双手已满! 
+
+Place on door : [LMB]=放在门上:[左键]
+Scan for threat: [LMB]=扫描威胁:[左键]
+Use cash register : [LMB]=使用收银机:[左键]
+Turn on booster : [LMB]=开启雷达增幅器:[左键]
+Swing shovel : [LMB]=挥动铲子:[左键]
+Disable speaker: [E]=关闭扬声器:[E]
+Toggle music : [LMB]=切换音乐:[左键]
+Use horn : [LMB]=使用小丑喇叭:[左键]
+Use key : [LMB]=使用钥匙:[左键]
+Use grenade : [LMB]=使用震撼弹:[左键]
+Pop up ladder : [LMB]=弹出梯子:[左键]
+Pull pin: [LMB]=拔出插销:[左键]
+Switch water: [E]=开关水龙头:[E]
+Switch TV: [E]=开关电视:[E]
+[Pulling cord]=[正在拉绳]
+Open hatch : [E]=打开舱口:[E]
+Get log : [E]=收集日志:[E]
+Play record: [E]=播放录音:[E]
+Pull pin: [LMB]=拉保险针:[左键]
+Use jetpack : [LMB]=使用喷气背包:[左键]
+Take TZP : [LMB]=吸入TZP:[左键]
+Use hairdryer : [LMB]=使用吹风机:[左键]
+Open gift : [LMB]=打开礼盒:[左键]
+Throw grenade: [LMB]=投掷震撼弹:[左键]
+Wear mask : [LMB]=戴上面具:[左键]
+Fire : [LMB]=开火:[左键]
+Toggle laser : [LMB]=开关镭射指示器:[左键]
+Pull cord: [E] (Hold)=拉绳:[E](长按)
+Hit pumpkin : [E]=拍打南瓜:[E]
+Reload : [E]=装弹:[E]
+Lift glass : [E]=开合防护盖 : [E]
+Beam up : [E]=启动 : [E]
+Set candles: [E]=点燃蜡烛: [E]
+
+Turn safety on: [Q]=锁保险:[Q]
+Turn safety off: [Q]=下保险:[Q]
+/* 物品类翻译 End */
+
+/* 日志标题翻译 Start */
+Found journal entry: 'Shady - Aug 31=已收集日志: 可疑 - 8月31日
+Found journal entry: 'Swing of things - Aug 27=已收集日志: 渐入佳境 - 8月27日
+Found journal entry: 'Smells here! - Aug 24=已收集日志: 这儿好臭!  - 8月24日
+Found journal entry: 'Swing of things - Aug 27=已收集日志: 渐入佳境 - 8月27日
+Found journal entry: 'Golden planet - Aug ??=已收集日志: 金色星球 - 8月??日
+Found journal entry: 'Shady - Aug 31=已收集日志: 可疑 - 8月31日
+Found journal entry: 'Sound behind the wall - Sep 4=已收集日志: 墙后的声音 - 9月4日
+Found journal entry: 'Goodbye - Sep 7=已收集日志: 再见 - 9月7日
+Found journal entry: 'Screams - Sep 13=已收集日志: 尖叫 - 9月13日
+Found journal entry: 'Idea - Sep 18=已收集日志: 主意 - 9月18日
+Found journal entry: 'Nonsense - Sep 27=已收集日志: 扯淡 - 9月27日
+Found journal entry: 'Hiding - Sep 30=已收集日志: 躲着 - 9月30日
+Found journal entry: 'Desmond - Oct 15=已收集日志: Desmond - 10月15日
+Found journal entry: 'Real Job - Oct 1=已收集日志: 真正的工作 - 10月1日
+/* 日志标题翻译 End */
+
+/* 设施内物品翻译 Start */
+Flashlight=手电筒
+Lockpicker=开锁器
+Spray paint=喷漆罐
+Zap gun=电击枪
+Extension ladder=伸缩梯
+Stun grenade=震撼弹
+TZP-Inhalant=TZP吸入剂
+Jetpack=喷气背包
+Walkie-talkie=对讲机
+
+Body=尸体
+Homemade flashbang=自制闪光弹
+Homemade Flashbang=自制闪光弹
+DIY-Flashbang=自制闪光弹
+Shotgun shell=霰弹枪子弹
+Rubber Ducky=橡胶鸭子
+Rubber ducky =橡胶鸭子
+Rubber ducky=橡胶鸭子
+Gift=礼盒
+Gift box=礼盒
+Pill bottle=药瓶
+Ring=戒指
+Comedy=喜剧面具
+Tragedy=悲剧面具
+Whoopie cushion=屁声坐垫
+Ammo=弹药
+Shotgun=双管猎枪
+Double-barrel=双管猎枪
+Yield sign=让行标志牌
+Laser pointer=镭射指示器
+Golden cup=镀金酒杯
+Painting=画作
+Landmine=地雷
+Teeth=假牙
+Hair brush=发梳
+Hairdryer=电吹风
+Magnifying glass=放大镜
+Robot Toy=机器人玩具
+Fancy lamp=花哨台灯
+Coffee mug=咖啡杯
+Bell=黄铜铃
+Brass bell=黄铜铃
+Bee hive=蜂巢
+Tea Kettle=茶壶
+Turret=炮塔
+Stop sign=停止标志牌
+Old phone=老式电话
+Remote=遥控器
+Bottles=一箱瓶子
+Cash register=收银机
+Wedding ring=结婚戒指
+Jar of pickles=一罐泡菜
+Magic 7 ball=魔术7球
+Key=钥匙
+Plastic fish=塑料鱼
+Gold Bar=金条
+Big bolt=大型螺栓
+Tattered metal sheet=破旧金属板
+V-type engine=V型引擎
+Apparatice=设备
+Dust pan=簸箕
+Large axle=大号轴承
+Airhorn=气笛
+airhorn=气笛
+/* 设施内物品翻译 End */
+
+/* 冗余文本 Start */
+Key:=Key:
+Space=空格
+Shift=Shift
+Right Button=右键
+Left Button=左键
+Scroll/Down=向下滚轮
+Scroll/Up=向上滚轮
+Enter=Enter
+Controllers=手柄
+Left Stick/Up=左摇杆向上
+Left Stick/Down=左摇杆向下
+Left Stick/Left=左摇杆向左
+Left Stick/Right=左摇杆向右
+Button South=下方按键
+Left Trigger=左侧扳机
+Right Stick Press=按压右摇杆
+Button West=左侧按键
+Right Shoulder=右后方扳机
+Right Trigger=右侧扳机
+D-Pad/Down=十字下键
+D-Pad/Up=十字上键
+Button East=右侧按键
+D-Pad/Right=十字右键
+D-Pad/Left=十字左键
+Name=Name
+Blep2=Blep2
+Crazydude12=Crazydude12
+
+Albert=Albert
+
+Pull cord: [LMB] (Hold)=拉绳:[LMB](长按)
+Switch TV: [LMB]=开关电视: [LMB]
+Set candles: [LMB]=点燃蜡烛: [LMB]
+Store item : [LMB]=存储物品 : [LMB]
+Hit pumpkin : [LMB]=拍打南瓜 : [LMB]
+Play record: [LMB]=播放唱片: [LMB]
+Disable speaker: [LMB]=关闭扬声器: [LMB]
+Use ladder : [LMB]=使用梯子 : [LMB]
+Flip switch: [LMB]=拨动开关: [LMB]
+Start game : [LMB]=开始游戏:[LMB]
+Access terminal : [LMB]=使用终端:[LMB]
+Open: [LMB]=打开: [LMB]
+Charge item : [LMB]=充电 : [LMB]
+Pull valve : [LMB]=转动阀门 : [LMB]
+Use door : [LMB]=使用门 : [LMB]
+Land ship : [LMB]=降落飞船 : [LMB]
+Close door : [LMB]=关闭舱门 : [LMB]
+Open door : [LMB]=打开舱门 : [LMB]
+Open : [LMB]=开门 : [LMB]
+Switch lights : [LMB]=开关灯 : [LMB]
+Climb : [LMB]=攀爬 : [LMB]
+Let go : [LMB]=松手 : [LMB]
+Switch camera : [LMB]=切换相机 : [LMB]
+Start ship : [LMB]=启动飞船 : [LMB]
+Enter : [LMB]=进入 : [LMB]
+Get log : [LMB]=收集日志 : [LMB]
+Open hatch : [LMB]=打开舱盖 : [LMB]
+Pull switch : [LMB]=拉动开关 : [LMB]
+Sell item : [LMB]=出售物品 : [LMB]
+Ring bell: [LMB]=按铃: [LMB]
+Exit : [LMB]=离开 : [LMB]
+Enter: [LMB]=进入: [LMB]
+Flush: [LMB]=冲水: [LMB]
+
+Confirm: [V]   |   Rotate: [R]   |   Store: [X]=确认: [V]   |   旋转: [R]   |   储存: [X]
+/* 冗余文本 End */
+
+/* HUD翻译 Start */
+RECEIVING SIGNAL=正在接收讯息
+Walk : [W/A/S/D]=移动:[W/A/S/D]
+Sprint: [Shift]=冲刺:[Shift]
+Scan : [RMB]=扫描:[右键]
+/* HUD翻译 End */
+
+/* 地图翻译 Start */
+
+Eclipsed=日食
+Flooded=洪水
+Foggy=大雾
+Rainy=大雨
+Stormy=雷暴
+
+/* 71 Gordion */
+71 Gordion=71 Gordion
+Unknown=未知
+No land masses. Continual storms.=无固定陆地板块. 不间断的风暴肆虐. 
+Unknown=未知
+Where the company resides.=公司所在地. 
+
+71 Gordion=71 Gordion
+Unknown=未知
+No land masses. Continual storms.=无固定陆地板块. 不间断的风暴肆虐. 
+Unknown=未知
+Where the Company resides.=公司所在地. 
+
+/* 41 Experimentation */
+41 Experimentation=41 Experimentation
+Abandoned=已废弃
+Arid. Thick haze, worsened by industrial artifacts.=干旱. 雾霾浓密, 由于工业设施的存在而进一步恶化. 
+Dominated by a few species.=由部分生物主导. 
+
+/* 220 Assurance */
+220 Assurance=220 Assurance
+Abandoned=已废弃
+Jagged and weathered terrain.=呈锯齿状的风化地形. 
+Ecosystem supports territorial behaviour.=当地生态圈催生了多种具有领地意识的物种栖息于此. 
+
+/* 56 Vow */
+56 Vow=56 Vow
+Abandoned=已废弃
+Humid. Rough terrain. Teeming with plant-life.=潮湿. 地形崎岖. 植被涵盖率极高. 
+A competitive ecosystem supports aggressive lifeforms.=残酷的生态环境催生了多种具有高度攻击性的生物定居于此. 
+
+/* 21 Offense */
+21 Offense=21 Offense
+Abandoned=已废弃
+Jagged and weathered terrain.=呈锯齿状的风化地形. 
+A competitive ecosystem supports aggressive lifeforms.=残酷的生态环境催生了多种具有高度攻击性的生物定居于此. 
+
+/* 61 March */
+61 March=61 March
+Abandoned=已废弃
+Expansive. Constant rain.=地表开阔. 连绵不断的降雨. 
+Diverse=多样
+
+/* 85 Rend */
+85 Rend=85 Rend
+None=无人定居
+Frozen, rocky. Its planet orbits a white dwarf star.=富有岩石的冻土. 该星球围绕一颗白矮星运行. 
+Unlikely for complex life to exist=存有智慧生命体的可能性甚微
+
+/* 7 Dine */
+7 Dine=7 Dine
+None=无人定居
+Frozen, rocky. Its planet orbits a white dwarf star.=富有岩石的冻土. 该星球围绕一颗白矮星运行. 
+Unlikely for complex life to exist=存有智慧生命体的可能性甚微
+
+/* 8 Titan */
+8 Titan=8 Titan
+None=无人定居
+Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=富有岩石的冻土. 这颗星球曾被用于开采资源. 稍不小心就会迷失方向. 
+Dangerous entities have been rumored to take residence in the vast network of tunnels.=不少传言都说, 在设施的不同分区里居住着极度危险的生物. 
+
+/* 地图翻译 End */
+
+/* 未整理 */
+Value: =价值: 
+TIP:=提示:
+TIP=提示
+The host has not loaded or has already landed their ship.=主机尚未加载完毕, 或飞船已经降落. 
+Change: Purple Suit=更换: 紫色套装
+Change: Hazard suit=更换: 危险套装
+Change: Green suit=更换: 墨绿套装
+Change: Pajama suit=更换: 睡衣套装
+Lift glass : [LMB]=开合防护盖 : [LMB]
+Beam up : [LMB]=启动 : [LMB]
+AS MUCH PROFIT AS POSSIBLE=尽可能多地获得利润
+Welcome to\nVoiumya-10=欢迎来到\nVoiumya-10
+/* 未整理 */
+
+/* EchoScanner翻译 Start */
+Quota=指标
+Sell scrap for cash.=出售废品以换取现金.
+Brake lever=制动杆
+Lands the ship.=着陆飞船.
+Training manual=培训手册
+Useful info!=有用的信息! 
+Terminal=终端机
+Buy flashlights and travel to new planets!=购买手电筒并前往新星球! 
+Coil=充电线圈
+Charges batteries=给设备充电
+Door controls=舱门控制器
+Can't stay closed forever=无法一直保持关闭状态
+
+/* EchoScanner翻译 End */
+
+
+/* 正则单词翻译 Start */
+Engine part=引擎部件
+Dog toy=狗狗玩具
+
+Notes:=评价: 
+ Days= 天
+Most lazy employee=最懒惰的员工
+Most paranoid employee=最焦虑的员工
+The laziest employee=最懒惰的员工
+Most profitable=最会赚钱的员工
+The most paranoid employee=最焦虑的员工
+Sustained the most injuries=伤势最重的员工
+* Most lazy employee=* 最懒惰的员工
+* Most paranoid employee=* 最焦虑的员工
+* The laziest employee.=* 最懒惰的员工
+* Most profitable.=* 最会赚钱的员工
+* The most paranoid employee.=* 最焦虑的员工
+* Sustained the most injuries.=* 伤势最重的员工
+
+/* 正则单词翻译 End */
+
+CONFIRM= 确认
+
+/* 设置翻译 Start */
+Master volume:=主音量:
+CONTROLS=控制
+Look sensitivity:=视角灵敏度:
+Invert Y-Axis=反转Y轴
+> Change keybinds=> 更改按键绑定
+DISPLAY=画面选项
+Frame rate cap:=帧率上限:
+Use monitor (V-Sync)=使用显示器 (垂直同步)
+30 FPS=30 FPS
+60 FPS=60 FPS
+120 FPS=120 FPS
+144 FPS=144 FPS
+Display mode:=显示模式:
+Fullscreen=全屏
+Windowed fullscreen=无边框全屏
+Maximized window=窗口最大化
+Window=窗口化
+Gamma/Brightness:=伽玛/亮度:
+ACCESSIBILITY=无障碍功能
+Arachnophobia Mode=蜘蛛恐惧症模式
+> Confirm changes=> 确认更改
+> Back=> 返回
+> Reset all to default=> 恢复默认设置
+
+REMAP CONTROLS=键位绑定
+REBIND CONTROLLERS=控制器重绑定
+> Set to defaults=> 重置键位至默认设置
+/* 设置翻译 End */
+/* 设置按键映射翻译 Start */
+Push to talk=按键说话
+Walk forward=向前移动
+Walk back=向后移动
+Walk left=向左移动
+Walk right=向右移动
+Jump=跳跃
+Sprint=冲刺
+Crouch=蹲伏
+Interact=交互
+Ping scan=扫描
+Item primary use=使用物品主要功能
+Item Secondary use=使用物品次要功能
+Item Tertiary use=使用物品附加功能
+Item drop=丢弃物品
+Item switch left=向左切换物品
+Item switch right=向右切换物品
+Item inspect=检查物品
+Replace furniture=替换家具
+Turn furniture=旋转家具
+Store furniture=存储家具
+Dance=跳舞
+Point=指向他人
+Enable chat=打开聊天窗口
+Submit chat=发送聊天信息
+
+Move forward=向前移动
+Move back=向后移动
+Move left=向左移动
+Move right=向右移动
+Item secondary use=使用物品次要功能
+Item tertiary use=使用物品附加功能
+Waiting for input=正在等待按键输入
+/* 设置按键映射翻译 End */
+
+
+/* 标题翻译 Start */
+LAUNCH MODE=启动模式
+> Online=> 在线
+> LAN=> 局域网
+  LAN=  局域网
+  Online=  在线
+(Recommended)=(推荐)
+  CONFIRM=  确认
+
+CHALLENGE=挑战
+> Host=>建立主机
+> Credits=>制作人员
+> Settings=>游戏设置
+> Join a crew=>加入游戏
+> Quit=>退出游戏
+You are in LAN mode. When allowing remote connections through LAN, please ensure you have sufficient network security such as a firewall and/or VPN.=您处于局域网模式. \n允许通过局域网进行远程连接时, 请确保已启用网络安全措施, 例如防火墙或VPN.  
+> Join LAN session=>加入局域网会话
+(Launched in LAN mode)=(以局域网模式启动)
+
+[ Confirm ]=[ 确认 ]
+[ Continue ]=[ 继续 ]
+DISCARD=放弃
+Sort: worldwide=排序: 所有
+[ Refresh ]=[ 刷新 ]
+Join=加入
+> Back to menu=>返回主菜单
+Servers=房间列表
+
+NEW PROFIT QUOTA:=新利润指标:
+PRIVATE means you must send invites through Steam for players to join.=私人房间意味着您必须通过Steam发送邀请以供玩家加入. 
+Server name:=房间名称:
+Started server, joining...=已创建房间, 正在加入...
+PUBLIC means your game will be visible on the server list for all to see.=公开房间意味着您的游戏将在房间列表中对所有玩家可见. 
+(Cannot hold until ship has landed)=(飞船降落后才能拾取)
+INSTABILITY:=不稳定:
+BACK=返回
+Loading...=加载中...
+Connecting to host...=正在连接到主机...
+Unconfirmed changes!=更改尚未保存! 
+[ Back ]=[ 返回 ]
+The server host disconnected.=主机已断开连接.
+Save File=存档列表
+File 1=存档1
+File 2=存档2
+File 3=存档3
+Public=公开
+Friends-only=仅限好友
+Go back=返回
+Delete=删除
+DISCARD=放弃
+This is the weekly challenge moon. You have one day and one attempt to make as much profit as possible.=这是每周更新的星球挑战. 您仅有一次尝试概率来在一天内尽可能多地赚取利润. 
+This is the weekly challenge moon. You have one day to make as much profit as possible.=前往周常挑战星球. 您有一天时间来尽可能多地赚取利润. 
+
+PILOT COMPUTER=计算机飞控系统
+/* 标题翻译 End */
+
+
+/* 警告翻译 Start */
+WARNING!!! The autopilot ship will leave at midnight. Please return quickly.=警告!!!\n自动驾驶已激活, 飞船将于午夜撤离. \n请立刻返回. 
+Alert! The autopilot is leaving due to dangerous conditions.=警告! \n考虑到停留风险, 飞船将交由自动驾驶系统撤离.  
+The Company must minimize risk of damage to proprietary hardware. Goodbye!=公司必须最小化专有硬件受损风险. \n再见! 
+[LIFE SUPPORT: OFFLINE]=[生命维持系统:离线]
+(Dead)=(死亡)
+ALERT!=警告! 
+Drop your metallic items now! A static charge has been detected. You have seconds left to live.=立即放下金属物品! \n检测到静电充能. \n您还剩几秒钟的时间. 
+Warning! No response from crew, which has not returned. Emergency code activated.=警告! \n船员没有回应, 暂无人员返回. \n紧急代码激活. 
+The autopilot will now attempt to fly to the closest safe spaceport. Your items have been lost.=飞船将自动驾驶至最近的安全太空港. \n您已丢失所有物品. 
+TIP!: Hold [RMB] to vote for the autopilot ship to leave early.=提示: 长按[右键]投票决定是否提前撤离.  
+Tell autopilot ship to leave early : [RMB](Hold)=通知自动驾驶飞船提前撤离: [右键](长按)
+Ship leaving in one hour=飞船将在一小时内撤离
+
+/* 警告翻译 End */
+
+/* 生物翻译 Start */
+Jester=小丑魔盒
+Nutcracker=胡桃夹子
+Eyeless dog=无眼猎犬
+Hygrodere=史莱姆
+Hoarding bug=贪财翅虫
+Manticoil=四翼山雀
+Half=​重拳猛鱼
+Thumper=​重拳猛鱼
+Coil-head=线圈头
+Bracken=蕨影
+Circuit bees=电击蜜蜂
+Baboon hawk=翼猿
+Forest Giant=森林守卫
+Roaming locusts=漫游蝗虫
+Snare flea=潜匿蜈蚣
+Earth Leviathan=隐地利维坦
+Bunker spider=地堡巨蛛
+/* 生物翻译 End */
+
+/* 杂项 Start */
+Value=价值
+
+Drop Gift=丢下礼盒
+Open gift=打开礼盒
+/* 杂项 End */
+
+[ Remove my score ]=[ 移除我的记录 ]
+[ Play again ]=[ 再次游玩 ]
+Sort: Friends=排序方式: 好友
+Sort: Similar rank=排序方式: 相近分数
+Sort: Top 20=排序方式: 前20名
+(You cannot resubmit your score.)=(您不能重复提交记录)
+Loading ranking...=正在加载排名...
+
+
+Would you like to leave the game?=您要离开游戏吗? 
+Voice Volume=语音音量
+Crew Size:=最大人数: 
+Cosmetics Enabled:=装饰品是否启用: 
+Sort: far=排序: 离我最远
+Sort: near=排序: 离我最近
+
+Max players...=最大玩家数...
+Enter a lobby name!=请输入房间名称! 
+Autosaving...=正在自动存档...
+
+Credits=制作名单
+Discard changes=放弃变更
+
+> Cancel=> 取消
+
+> Invite friends=> 邀请好友
+
+> Resume=> 继续游戏
+
+Name your server...=请输入房间名...
+Back=返回
+
+Oxygen critically low!=氧气量严重不足! 
+
+Main entrance=主要入口
+HAZARD LEVEL:=危险等级: 
+Home base=基地
+
+Open: [E]=开启:[E]
+
+Quit terminal : [TAB]=退出终端:[TAB]
+
+Open : [E]=打开:[E]
+Open door=开门
+
+[Nothing to store]=[暂无可储存物品]
+[Wait for ship to land]=[等待飞船着陆]
+
+
+Climb : [E]=攀爬:[E]
+Let go : [E]=松手:[E]
+Enter : [E]=进入:[E]
+
+
+Exit: [E]=离开:[E]
+[Hands full]=[双手已满]
+[ Not holding items ]=[手中未持有任何物品]
+
+
+Grab=拿取
+
+Close door=关门
+
+Use remote : [LMB]=按遥控器:[LMB]
+[Cannot pull valve]=[无法转动阀门]
+
+
+Hold: [Alt]=按住使用:[Alt]
+
+The vehicle returned with your purchased items. Our delivery fee cannot be refunded.=您订购的物品已和运输船一同返航. \n公司将不退还任何运输费用. 
+Items missed!=忘取快递了! 
+
+Item stored!=物品已储存! 
+BROADCASTED SPECIAL CODE=已传输特殊指令
+
+CREW:=全体船员:
+Item collected!=物品已收集! 
+
+New creature data sent to terminal!=新的生物数据已发送至终端! 
+
+Paycheck!=工资条! 
+
+Typing...=正在打字...
+
+SYSTEMS ONLINE=工作系统上线
+
+TO MEET PROFIT QUOTA=达成利润指标
+
+Waiting for crew...=等待其他船员...
+
+CRITICAL INJURY=遭受重创
+
+
+Fines=罚款
+HANDS FULL=双手已满
+Value: ???=价值: ? ? ? 
+
+EMPLOYEE RANK=员工等级
+Boss=老板
+Intern=实习生
+Part-timer=兼职员工
+Employee=正式员工
+Leader=领导
+
+Option A=选项 A
+Press "/" to talk.=按 「/」 打字. 
+Push to talk:=按键发言:
+
+DEADLINE:\n NOW=截止日期:\n现在
+To sell, use the terminal to route the ship to the company building.=若要出售物品, 请通过终端将飞船导航至公司大楼. 
+
+Voted for ship to leave early=已赞成指示飞船提前撤离
+TOTAL:=总价值:
+
+
+Gunshots=枪杀
+Blast=爆炸
+Mauling=撕咬
+Strangulation=绞杀
+Bludgeoning=重击
+Gravity=坠亡
+
+VISIBILITY LOW!\n\nSteam leak detected in area=可见度低! \n\n区域内检测到蒸汽泄漏
+
+Got scrap!=已回收废品! 
+Confirm changes?=确认更改? 
+
+Stats=数据
+QUOTA REACHED!=指标已完成! 
+
+Locked=已上锁
+
+Inventory full!=背包已满! 
+
+Use the ship computer terminal to access secure doors.=通过飞船上的终端来开启安全门. 
+
+(Requires battery-powered item)=(仅限带有电池的物品)
+PERFORMANCE REPORT=绩效报告
+
+Drop=丢下 
+
+Gilbert=吉尔伯特
+Safe=安全
+
+Welcome to=欢迎来到
+
+Uncapped=无上限
+Enter a tag...=请输入标签...
+
+Do you want to delete File 1?=要删除存档1吗? 
+Do you want to delete File 2?=要删除存档2吗? 
+Do you want to delete File 3?=要删除存档3吗? 
+
+
+/* 下方为：WavesMan-译制_Start */
+
+/* LethalConfig v1.4.0_Start */
+[General]=[通用]
+HDLethalCompany-Sligili=画面设置-高清材质包
+Gamblers MOD=赌博公司MOD
+Helmet_Cameras=头部摄像头
+Late Company=局内加入
+MoreEmotes-sligili=更多动作
+key=按键
+
+/* HDLethalCompany-Sligili_Start */
+EnableAA=抗锯齿
+EnablePP=后期处理
+TextureQuality=纹理分辨率质量
+FogQuality=体积雾质量
+EnableFOG=Volumetric Fog Toggle
+LOD=细节级别
+ShadowQuality=阴影分辨率
+EnableF=树叶渲染率
+Value=分辨率缩放大小
+EnableRes=分辨率修复
+Resolution Scale Multiplier - <EXAMPLES -> | 1.000=分辨率渲染倍率 <示例-> | 1.000
+The UI scanned elements have slightly incorrect offsets after 3.000=UI扫描的元素在3.000之后有轻微错误偏移量
+/* HDLethalCompany-Sligili_End */
+
+/* Late Company_Start */
+Allow joining while landed=允许落地状态时加入
+* Allow joining while landed=* 允许落地状态时加入
+/* Late Company_End */
+
+/* Gamblers MOD_Start */
+[General Machine Settings]=[机器基础设置]
+gamblingMachineMaxCooldown=最大冷却时间
+Number Of Uses=使用次数
+Number Of Machines=机器数量
+[Gambling Chances]=[赌博的概率]
+JackpotChance=大奖的概率
+Triplechance=三倍的概率
+Doublechance=两倍的概率
+HalveChance=一半的概率
+ZeroChance=零的概率
+[Gambling Multipliers]=[赌博乘数]
+JackpotMultiplier=头奖的乘数
+TripleMultiplier=三倍乘数
+Doub leMultiplier=双倍增器
+HalveMultiplier=一半的乘数
+ZeroMultiplier=零乘数
+[Audio]=[音频]
+GambleMachineMusicEnabled=开启赌博机音乐
+GambleMachineMusicVolume=赌博机音乐音量
+/* Gamblers MOD_End */
+
+/* MoreEmotes-Sligili_Start */
+[EMOTE WHEEL]=[表情轮盘]
+[EMOTE WHEEL (Controller)]=[表情轮盘（控制器）]
+[OTHERS]=[其他]
+InventoryCheck=库存检查
+ConfigFile=配置文件
+[QUICK EMOTES]=[表情快捷键]
+Middle Finger=竖中指
+The Griddy=The Griddy
+shy=害羞
+clap=鼓掌
+Twerk=Twerk
+Salute=Salute
+Prisyadka=Prisyadka
+Sign=Sign
+/* MoreEmotes-Sligili_End */
+
+
+/* Lethal Progression_Start */
+XP Minimum=最小XP
+/* Lethal Progression_End */
+
+/* LethalConfig v1.4.0_End */
+/* 下方为：WavesMan-译制_End */
+
