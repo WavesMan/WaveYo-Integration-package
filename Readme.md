@@ -13,10 +13,11 @@ Waves_Man新增部分汉化内容适配MOD插件
 使用前请阅读“MOD_Use_Tips.txt”
 
 ## 下载
-GitHub库：https://github.com/WavesMan/Lethal_Company-Integration-package)
-下载：
-	GitHub下载：https://github.com/WavesMan/Lethal_Company-Integration-package/releases
-	123网盘下载：https://www.123pan.com/s/hbHPjv-Ox1MA.html
+
+GitHub库：[戳此链接](https://github.com/WavesMan/Lethal_Company-Integration-package)
+下载：[GitHub下载](https://github.com/WavesMan/Lethal_Company-Integration-package/releases)
+
+           [123网盘下载](https://www.123pan.com/s/hbHPjv-Ox1MA.html)
 
 ## MOD列表
 
@@ -47,8 +48,16 @@ GitHub库：https://github.com/WavesMan/Lethal_Company-Integration-package)
 
 ## BUG兼容性问题
 
-1. 访问 [Waves_Man B站主页]：
-	https://space.bilibili.com/478191001) 私信写清楚BUG产生性状，与是否有安装其他MOD
-  
-2. 提交issues↓
-	https://github.com/WavesMan/Lethal_Company-Integration-package/issues/new
+1. 访问  [Waves_Man B站主页](https://space.bilibili.com/478191001)  私信写清楚BUG产生性状，与是否有安装其他MOD
+
+2. 提交issues→[戳](https://github.com/WavesMan/Lethal_Company-Integration-package/issues/new)
+
+## 赞助
+
+微信赞赏码
+
+<img title="" src="file:///C:/Users/diwei/Documents/致命公司mod合集/MOD合集/Files/Pictures/WeChat/mm_reward_qrcode_1712427314053.png" alt="mm_reward_qrcode_1712427314053.png" width="328">
+
+支付宝赞助
+
+<img src="file:///C:/Users/diwei/Documents/致命公司mod合集/MOD合集/Files/Pictures/Alipay/Alipay.jpg" title="" alt="Alipay.jpg" width="247">
