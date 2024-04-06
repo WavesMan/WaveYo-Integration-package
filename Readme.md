@@ -56,7 +56,7 @@ GitHub库：[戳此链接](https://github.com/WavesMan/Lethal_Company-Integratio
 
 微信赞赏码
 
-<img title="" src="file:///C:/Users/diwei/Documents/致命公司mod合集/MOD合集/Files/Pictures/WeChat/mm_reward_qrcode_1712427314053.png" alt="mm_reward_qrcode_1712427314053.png" width="328">
+<img title="" src="file:///C:/Users/diwei/Documents/致命公司mod合集/MOD合集/Files/Pictures/WeChat/wx.png" alt="mm_reward_qrcode_1712427314053.png" width="328">
 
 支付宝赞助
 
