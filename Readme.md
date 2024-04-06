@@ -21,7 +21,11 @@ Waves_Man新增部分汉化内容适配MOD插件
 
 GitHub库：[戳此链接](https://github.com/WavesMan/Lethal_Company-Integration-package)
 
+Gitee仓库：[戳此链接](https://gitee.com/waves-man/Lethal_Company-Integration-package)
+
 下载：[GitHub下载](https://github.com/WavesMan/Lethal_Company-Integration-package/releases)
+
+           [Gitee下载](https://gitee.com/waves-man/Lethal_Company-Integration-package/releases)
 
            [123网盘下载](https://www.123pan.com/s/hbHPjv-Ox1MA.html)
 
