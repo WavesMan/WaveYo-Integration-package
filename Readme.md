@@ -83,15 +83,15 @@ GitHub库：[戳此链接](https://github.com/WavesMan/Lethal_Company-Integratio
 
 第二步
 
-![002.png](.\Files\Pictures\ScreenShoot\002.png)
+![002.png](./Files/Pictures/ScreenShoot/002.png)
 
 第三步：
 
-![003.png](.\Files\Pictures\ScreenShoot\003.png)
+![003.png](./Files/Pictures/ScreenShoot/003.png)
 
 第四步：
 
-![004.png](.\Files\Pictures\ScreenShoot\004.png)
+![004.png](./Files/Pictures/ScreenShoot/004.png)
 
 第五步：前往“$下载$”下载整合包，并打开整合包
 
@@ -99,13 +99,13 @@ GitHub库：[戳此链接](https://github.com/WavesMan/Lethal_Company-Integratio
 
 第七步：当zip文件显示情况<mark>如下图一</mark>时，而<mark>非图二</mark>时执行**第八步**
 
-![005.png](.\Files\Pictures\ScreenShoot\005.png)
+![005.png](./Files/Pictures/ScreenShoot/005.png)
 
-![006.png](.\Files\Pictures\ScreenShoot\006.png)
+![006.png](./Files/Pictures/ScreenShoot/006.png)
 
 第八步：全选zip文件中所有文件拖入（解压）进致命公司根目录（如图）
 
-![007.png](.\Files\Pictures\ScreenShoot\007.png)
+![007.png](./Files/Pictures/ScreenShoot/007.png)
 
 ## BUG兼容性问题
 
