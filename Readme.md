@@ -41,7 +41,7 @@ Gitee仓库：[戳此链接](https://gitee.com/waves-man/Lethal_Company-Integrat
 
 ·MOD列表插件
 
-·赌博公司
+·抽奖公司
 
 ·对讲机专栏
 

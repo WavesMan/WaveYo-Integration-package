@@ -3,7 +3,7 @@ BenpinEx & MonoMod_API
 BepInEx v5.4.22通用Unity插件前置
 Config工具包-AinaVT-LethalConfig-1.4.0
 MOD列表插件
-赌博公司
+抽奖公司
 对讲机专栏
 飞船升级系统
 高清包
