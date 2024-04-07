@@ -1,6 +1,0 @@
-/Environment/HangarShip/Player/PlayerNameCanvas/Text (TMP)
-/PlayerUsernameCanvas/Text (TMP)
-/Systems/UI/Canvas/IngamePlayerHUD/BottomLeftCorner/InputField (TMP)/Text Area/Text
-/Canvas/MenuContainer/LobbyList/ListPanel/Scroll View/Viewport/Content/LobbyListItem(Clone)/ServerName
-/Canvas/MenuContainer/LobbyList/ListPanel/Scroll View/Viewport/Content/LobbyListItemChallenge(Clone)/ServerName
-/Environment/HangarShip/Terminal/Canvas/MainContainer/Scroll View/Viewport/InputField (TMP)/Text Area/Text
