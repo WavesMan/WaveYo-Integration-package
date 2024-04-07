@@ -1,0 +1,1 @@
+/CharaCustom/CustomControl/CanvasDraw=ChangeFontSizeByPercentage(0.1)

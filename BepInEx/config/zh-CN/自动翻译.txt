@@ -1,0 +1,4 @@
+﻿Ammo =弹药 
+Notes: \n=笔记: \n
+Toy tank =玩具坦克 
+Wet Floor Sign =小心滑倒标志 
