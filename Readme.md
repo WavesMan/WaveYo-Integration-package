@@ -35,7 +35,11 @@ Gitee仓库：[戳此链接](https://gitee.com/waves-man/Lethal_Company-Integrat
 
 -    简中汉化包-吹到江心的孤雪 小本杰明儿 炸飞Victor 制
 
+
+
 -    Waves_Man优化新增MOD汉化
+
+
 
 ————————————————————————————————————
 
@@ -43,11 +47,27 @@ Gitee仓库：[戳此链接](https://gitee.com/waves-man/Lethal_Company-Integrat
 
 -    BenpinEx & MonoMod_API
 
+
+
 -    BepInEx v5.4.22通用Unity插件前置
+
+
+
 -    Config工具包-AinaVT-LethalConfig-1.4.0
+
+
+
 -    专用物品栏前置API-ReservedItemSlotCore-2.0.17
+
+
+
 -    礼物盒开奖前置
+
+
+
 -    MOD列表插件
+
+
 
 ————————————————————————————————————   
 
@@ -55,20 +75,50 @@ Gitee仓库：[戳此链接](https://gitee.com/waves-man/Lethal_Company-Integrat
 
 -    高清资源包
 
+
+
 -    对讲机专栏
+
+
 -    手电筒专栏
+
+
 -    更多玩家
+
+
 -    更精准的价值
+
+
 -    局内加入MOD
+
+
 -    千克显示法
+
+
 -    头盔摄像头
+
+
 -    装备快捷键
+
+
 -    验尸官
+
+
 -    无限喷漆
+
+
 -    听到所有的对讲机
+
+
 -    更好的逆向传送
+
+
 -    更好的HUD
+
+
 -    ShipClock-0.9.0
+
+
 
 ————————————————————————————————————
 
@@ -76,14 +126,32 @@ Gitee仓库：[戳此链接](https://gitee.com/waves-man/Lethal_Company-Integrat
 
 -    拟声怪
 
+
+
 -    抽奖公司
+
+
 -    飞船升级系统
+
+
 -    更多手势
+
+
 -    假门
+
+
 -    人物技能升级系统
+
+
 -    死后观察怪物
+
+
 -    随机事件（New）
+
+
 -    更多的动作
+
+
 
 ————————————————————————————————————
 
