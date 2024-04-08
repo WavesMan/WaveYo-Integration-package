@@ -11,7 +11,7 @@ Waves_Man新增部分汉化内容适配MOD插件
 
 ## 版本信息
 
-当前整合包最新版本v1.1.0
+当前整合包最新版本v1.2.0
 
 适配致命公司v49版本
 
@@ -31,53 +31,53 @@ Gitee仓库：[戳此链接](https://gitee.com/waves-man/Lethal_Company-Integrat
 
 ## MOD列表
 
-·简中汉化包-吹到江心的孤雪 小本杰明儿 炸飞Victor 制
+##### 汉化包：
 
-·BenpinEx & MonoMod_API
+    简中汉化包-吹到江心的孤雪 小本杰明儿 炸飞Victor 制
+    Waves_Man优化新增MOD汉化
+————————————————————————————————————
 
-·BepInEx v5.4.22通用Unity插件前置
+##### API前置包：
 
-·Config工具包-AinaVT-LethalConfig-1.4.0
+    BenpinEx & MonoMod_API
+    BepInEx v5.4.22通用Unity插件前置
+    Config工具包-AinaVT-LethalConfig-1.4.0
+    专用物品栏前置API-ReservedItemSlotCore-2.0.17
+    礼物盒开奖前置
+    MOD列表插件
+————————————————————————————————————   
 
-·MOD列表插件
+##### 游戏性优化包：
 
-·抽奖公司
+    高清资源包
+    对讲机专栏
+    手电筒专栏
+    更多玩家
+    更精准的价值
+    局内加入MOD
+    千克显示法
+    头盔摄像头
+    装备快捷键
+    验尸官
+    无限喷漆
+    听到所有的对讲机
+    更好的逆向传送
+    更好的HUD
+    ShipClock-0.9.0
+————————————————————————————————————
 
-·对讲机专栏
+##### 玩法包：
 
-·飞船升级系统
-
-·高清包
-
-·更多手势
-
-·更多玩家
-
-·更多装备栏
-
-·更精准的价值
-
-·假门
-
-·局内加入MOD
-
-·礼物盒开奖
-
-·礼物盒开奖前置
-
-·拟声怪
-
-·千克显示法
-
-·人物技能升级系统
-
-·手电筒专栏
-
-·死后观察怪物
-
-·随机事件
-
-·头盔摄像头
+    拟声怪
+    抽奖公司
+    飞船升级系统
+    更多手势
+    假门
+    人物技能升级系统
+    死后观察怪物
+    随机事件（New）
+    更多的动作
+————————————————————————————————————
 
 ## 卸载安装
 
@@ -113,9 +113,49 @@ Gitee仓库：[戳此链接](https://gitee.com/waves-man/Lethal_Company-Integrat
 
 ## BUG兼容性问题
 
-1. 访问  [Waves_Man B站主页](https://space.bilibili.com/478191001)  私信写清楚BUG产生性状，与是否有安装其他MOD
+1. 访问  https://space.bilibili.com/478191001  私信写清楚BUG产生性状，与是否有安装其他MOD
 
 2. 提交issues→[戳](https://github.com/WavesMan/Lethal_Company-Integration-package/issues/new)
+
+## 更新
+
+##### 4月8日    v1.2.0
+
+    - 新增    <专用物品栏前置API-ReservedItemSlotCore-2.0.17>
+
+                  <装备快捷键>
+
+                  <听到所有的对讲机>
+
+                  <验尸官>
+
+                 `<ShipClock-0.9.0>`
+
+                  <无限喷漆>
+
+                  <更好的HUD>
+
+                  <更好的逆向传送>
+
+                  <更多的动作>
+
+    - 移除    <更多装备栏>`[兼容性移除]`
+
+##### 4月7日    v1.1.0
+
+    - 新增    <自动翻译模块-XUnity.AutoTranslator>
+
+                  <自动翻译config>
+
+                  <新随机事件新随机事件>
+
+                  <适配MOD汉化包 - Waves_Man 译>
+
+## 兼容性测试
+
+##### 4月8日测试
+
+    `<更多装备栏>`与`<对讲机专栏><手电筒专栏>`冲突，移除`<更多装备栏>`
 
 ## 赞助
 
