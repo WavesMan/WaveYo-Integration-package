@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="fr" />
+    </tags>
+    <strings>
+        <UINotes text="Notes: " />
+        <UICauseOfDeath text="Cause de la mort: " />
+
+        <FunnyNote text="Le plus stupide." />
+        <FunnyNote text="Est trop mignon." />
+        <FunnyNote text="S'est bien amusé." />
+        <FunnyNote text="N'a pas eu un bon temps." />
+        <FunnyNote text="S'est montré brave." />
+        <FunnyNote text="A fait des figures." />
+        <FunnyNote text="A cogné une table." />
+        <FunnyNote text="A plus de chances de mourir." />
+        <FunnyNote text="A moins de chances de mourir." />
+        <FunnyNote text="Déteste la fumée." />
+        <FunnyNote text="Aime jouer en équipe." />
+        <FunnyNote text="Est un VRAI fonceur." />
+        <FunnyNote text="Est un goinfre." />
+        <FunnyNote text="S'est fait aspergé d'encre." />
+        <FunnyNote text="Est allé trop vite." />
+        <FunnyNote text="N'a pas fait attention." />
+        <FunnyNote text="Absolument parfait." />
+        <FunnyNote text="A oublié d'appeler sa mère." />
+        <FunnyNote text="A oublié de changer d'IP." />
+        <FunnyNote text="Secrètement un renard." />
+
+        <DeathBludgeoning text="Battu a mort." />
+
+        <DeathGravity text="Est tombé." />
+        <DeathGravity text="A glissé." />
+
+        <DeathBlast text="A explosé." />
+        <DeathBlast text="Est parti avec un bang." />
+        <DeathBlast text="A explosé en mille morceaux." />
+
+        <DeathStrangulation text="Étranglé." />
+
+        <DeathSuffocation text="Asphyxié." />
+
+        <DeathMauling text="Mutilé." />
+
+        <DeathGunshots text="Tiré dessus." />
+        <DeathGunshots text="A été rempli de balles." />
+
+        <DeathCrushing text="Écrasé." />
+
+        <DeathDrowning text="Noyé." />
+
+        <DeathAbandoned text="Abandonné par ses collègues." />
+
+        <DeathElectrocution text="Électrocuté." />
+
+        <DeathKicking text="Botté." />
+
+        <DeathEnemyBracken text="A eu son cou cassé par un Bracken." />
+        <DeathEnemyBracken text="A regardé un Bracken trop longtemps." />
+
+        <DeathEnemyEyelessDog text="A été mangé par un Eyeless Dog." />
+        <DeathEnemyEyelessDog text="Pris en train d'utiliser un clavier méchanique." />
+        <DeathEnemyEyelessDog text="N'a pas été silencieux a coté d'un Eyeless Dog." />
+
+        <DeathEnemyForestGiant text="Dévoré entier par un Forest Giant." />
+
+        <DeathEnemyCircuitBees text="Piqué par des Circuit Bees." />
+
+        <DeathEnemyGhostGirl text="Mort mystérieusement." />
+        <DeathEnemyGhostGirl text="A perdu la boule." />
+        <DeathEnemyGhostGirl text="A eu une très mauvaise migraine." />
+        <DeathEnemyGhostGirl text="???" />
+
+        <DeathEnemyEarthLeviathan text="Dévoré entier par un Earth Leviathan." />
+
+        <DeathEnemyBaboonHawk text="A été mangé par un Baboon Hawk." />
+        <DeathEnemyBaboonHawk text="A été mordu par un Baboon Hawk." />
+
+        <DeathEnemyJester text="A été réduit en pièces par un Jester." />
+        <DeathEnemyJester text="A été la blague du Jester." />
+        <DeathEnemyJester text="A été trompé par un Jester." />
+        <DeathEnemyJester text="A trouvé le diable dans la boite." />
+
+        <DeathEnemyCoilHead text="A été mutilé par un Coil Head." />
+        <DeathEnemyCoilHead text="A fait un concours de regards avec un Coil Head." />
+        <DeathEnemyCoilHead text="A perdu un concours de regards avec un Coil Head." />
+
+        <DeathEnemySnareFlea text="A été asphyxié par un Snare Flea." />
+
+        <DeathEnemyHygrodere text="A été absorbé par un Hygrodere." />
+        <DeathEnemyHygrodere text="A donné un calin a un Hygrodere." />
+        <DeathEnemyHygrodere text="A eu un oupsie avec un Hygrodere." />
+
+        <DeathEnemyHoarderBug text="A été battu par un Hoarder Bug." />
+        <DeathEnemyHoarderBug text="A été essaimé par un Hoarder Bug." />
+        <DeathEnemyHoarderBug text="A été collecté par un Hoarder Bug." />
+        <DeathEnemyHoarderBug text="A essayé de voler un Hoarder Bug." />
+
+        <DeathEnemySporeLizard text="A été mordu per un Spore Lizard." />
+        <DeathEnemySporeLizard text="A énervé un Spore Lizard." />
+
+        <DeathEnemyBunkerSpider text="Attrapé dans la toile de la Bunker Spider." />
+
+        <DeathEnemyThumper text="A été ravagé par un Thumper." />
+        <DeathEnemyThumper text="A été cogné par un Thumper." />
+
+        <DeathEnemyMaskedPlayerWear text="A mis le Masque." />
+        <DeathEnemyMaskedPlayerWear
+            text="A joué la comédie." />
+
+        <DeathEnemyMaskedPlayerVictim text="A été tué par un collègue Masked." />
+        <DeathEnemyMaskedPlayerVictim text="Est devenu une tragédie aux mains du Masked." />
+
+        <DeathEnemyNutcrackerKicked text="A été botté par un Nutcracker." />
+        <DeathEnemyNutcrackerKicked text="A été piétiné par un Nutcracker." />
+
+        <DeathEnemyNutcrackerShot text="A été tiré dessus par un Nutcracker." />
+        <DeathEnemyNutcrackerShot text="S'est retrouvé trop près d'un calibre 12." />
+
+        <DeathPlayerJetpackGravity text="Est tombé en utilisant un jetpack." />
+        <DeathPlayerJetpackGravity text="A volé trop près du soleil." />
+        <DeathPlayerJetpackGravity text="Est tombé a court de carburant." />
+
+        <DeathPlayerJetpackBlast text="A explosé en utilisant un Jetpack." />
+        <DeathPlayerJetpackBlast text="S'est transformé en feu d'artifice." />
+
+        <DeathPlayerMurderMelee text="A été battu par un collègue." />
+        <DeathPlayerMurderMelee text="A été victime de meurtre." />
+        <DeathPlayerMurderMelee text="A été tué." />
+        <DeathPlayerMurderMelee text="A été trahi par un collègue." />
+
+        <DeathPlayerMurderShotgun text="A été tiré dessus par un collègue." />
+        <DeathPlayerMurderShotgun text="A été victime de meurtre." />
+        <DeathPlayerMurderShotgun text="A été tué." />
+        <DeathPlayerMurderShotgun text="A été pompé par un collègue." />
+        <DeathPlayerMurderShotgun text="N'a pas pu éviter le tir de son collègue." />
+
+        <DeathPlayerQuicksand text="S'est retrouvé coincé dans des sables mouvants." />
+        <DeathPlayerQuicksand text="S'est noyé dans des sables mouvants." />
+
+        <DeathPlayerStunGrenade text="A été ébloui par un collègue." />
+        <DeathPlayerStunGrenade text="N'a pas supporté la lumière." />
+
+        <DeathOtherDepositItemsDesk text="Received a demotion." />
+        <DeathOtherDepositItemsDesk text="Was put on disciplinary leave." />
+
+        <DeathOtherItemDropship text="A été écrasé par le vaisseau d'équipement." />
+        <DeathOtherItemDropship text="N'a pas pu attendre son équipement." />
+        <DeathOtherItemDropship text="A été impatient d'avoir son équipement." />
+
+        <DeathOtherLandmine text="A marché sur une mine." />
+
+        <DeathOtherTurret text="A été flingé par une tourelle." />
+
+        <DeathOtherLightning text="A été frappé par la foudre." />
+
+        <DeathUnknown text="Mort inconnue." />
+        <DeathUnknown text="Très probablement mort." />
+        <DeathUnknown text="A expiré mystérieusement." />
+    </strings>
+</base>
