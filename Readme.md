@@ -123,35 +123,71 @@ Gitee仓库：[戳此链接](https://gitee.com/waves-man/Lethal_Company-Integrat
 
 ## 卸载安装
 
-第一步：打开Steam按图示操作
+### 手动安装包
+
+##### 第一步：
+
+打开Steam按图示操作
 
 ![001.png](./Files/Pictures/ScreenShoot/001.png)
 
-第二步
+##### 第二步：
 
 ![002.png](./Files/Pictures/ScreenShoot/002.png)
 
-第三步：
+##### 第三步：
 
 ![003.png](./Files/Pictures/ScreenShoot/003.png)
 
-第四步：
+##### 第四步：
 
 ![004.png](./Files/Pictures/ScreenShoot/004.png)
 
-第五步：前往“$下载$”下载整合包，并打开整合包
+##### 第五步：
 
-第六步：打开整合包“**zip文件**”，并<u>**<mark>重复</mark>**</u><mark>“第一步”</mark>
+前往“$下载$”下载整合包，并打开整合包
 
-第七步：当zip文件显示情况<mark>如下图一</mark>时，而<mark>非图二</mark>时执行**第八步**
+##### 第六步：
+
+打开整合包“**zip文件**”，并<u>**<mark>重复</mark>**</u><mark>“第一步”</mark>
+
+##### 第七步：
+
+当zip文件显示情况<mark>如下图一</mark>时，而<mark>非图二</mark>时执行**第八步**
 
 ![005.png](./Files/Pictures/ScreenShoot/005.png)
 
 ![006.png](./Files/Pictures/ScreenShoot/006.png)
 
-第八步：全选zip文件中所有文件拖入（解压）进致命公司根目录（如图）
+##### 第八步：
+
+全选zip文件中所有文件拖入（解压）进致命公司根目录（如图）
 
 ![007.png](./Files/Pictures/ScreenShoot/007.png)
+
+### Git自动更新下载
+
+##### 第一步：
+
+确保您已经正确安装Git，可参考[此链接](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git)
+
+对最新的Git Windows安装包您可以访问：[Git官方网站](https://git-scm.com/download/win)下载，其中我们为您提供了一个Git安装包帮助您下载
+
+##### 第二步：
+
+运行您下载得到的Git安装包，成功安装后进入第三步
+
+##### 第三步：
+
+将您得到的bat脚本存放至致命公司游戏根目录（参考手动安装包教学第一步）
+
+运行我们为您提供的bat脚本文件（自动更新.bat）
+
+您不需要配置额外的网络环境，我们将会自动从Gitee（国内源）为您下载更新最新的库
+
+##### 第四步：
+
+bat运行的cmd窗口中如没有任何报错说明安装成功
 
 ## BUG兼容性问题
 
