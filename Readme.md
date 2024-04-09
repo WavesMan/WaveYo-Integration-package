@@ -88,6 +88,7 @@ Gitee仓库：[戳此链接](https://gitee.com/waves-man/Lethal_Company-Integrat
 -    ShipClock-0.9.0
 
 -    低头
+
 -    地面颤抖-小丑盒
 
 ————————————————————————————————————
@@ -160,7 +161,7 @@ Gitee仓库：[戳此链接](https://gitee.com/waves-man/Lethal_Company-Integrat
 
 ## 更新
 
-4月9日    v1.3.0
+##### 4月9日    v1.3.0
 
     - 新增    <低头>
 
@@ -173,6 +174,8 @@ Gitee仓库：[戳此链接](https://gitee.com/waves-man/Lethal_Company-Integrat
                   `<Dont_Touch_Me>`
 
 · 移除了整合包内MOD_List，让你的朋友不知道我们安装了什么抽象MOD
+
+· 优化了部分汉化内容
 
 ##### 4月8日    v1.2.0
 
