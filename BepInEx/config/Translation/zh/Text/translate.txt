@@ -947,6 +947,19 @@ Nutslayer=坚果杀手
 Hell=欢迎来到地狱
 /* 新随机事件_End */
 
+/* 抽奖_Start */
+Gameble=抽奖
+Scrap value on hand=手持物品价值
+Cooling down...=冷却中...
+You're already using a machine=您正在使用设备
+/* 抽奖_End */
+
+/* More Emotes _Start */
+[E] Sync emte=[E] 同步表情
+Zoom In/Out : [Scroll Mouse]=放大/缩小视野 [鼠标滚轮]
+Rotate : Hold [Alt]=选择：按住 [Alt]
+/* More Emotes _End */
+
 /* Lethal Progression_Start */
 XP Minimum=最小XP
 /* Lethal Progression_End */
